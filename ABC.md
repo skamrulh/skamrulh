@@ -63,11 +63,12 @@ rigorous ML engineering (tested, Dockerised, monitored) with practical deploymen
 <!-- === FEATURED PROJECTS === -->
 ## Featured Projects
 
-| Project | What it does | Key Tech |
+| Project | Links | Key Tech 
 |---------|-------------|----------|
-| 🏋️ [Personal AI Trainer](https://github.com/[USERNAME]/Personal-AI-Trainer) | Real-time browser posture coach | TF.js · MoveNet · GPT-4o-mini · Flask · Redis |
-| 📄 [Intelligent Document Processing](https://github.com/[USERNAME]/Intelligent-Document-Processing-System) | NLP compliance & risk engine | BERT · Sentence-BERT · FastAPI · Docker |
-| 🔗 [Supply Chain Sentinel](https://github.com/[USERNAME]/Supply-Chain-Sentinel) | Streaming anomaly detection | LSTM · Kafka · Grafana · Prometheus |
+| 🏋️ Smart-Retail-Vision-Platform | https://github.com/skamrulh/Smart-Retail-Vision-Platform | YOLOv8 · EasyOCR · Kafka · Redis Streams · FastAPI · Kubernetes |
+| 📄 Predictive-Maintenance-ML-Pipeline | https://github.com/skamrulh/Predictive-Maintenance-ML-Pipeline | RUL regression · MLflow tracking · Docker · Flask API|
+| 🔗 Personal-AI-Trainer | https://github.com/skamrulh/Personal-AI-Trainer | TF.js · MoveNet · GPT-4o-mini · Flask · Redis |
+
 
 ---
 <p align="center"><em>"I don't just build models — I build systems that work in production."</em></p>
