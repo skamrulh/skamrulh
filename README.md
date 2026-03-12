@@ -12,7 +12,7 @@ I build production-grade AI/ML systems — from real-time computer vision and LL
 
 ## Featured Projects
 
-| Project | What it does | Key Tech |
+| Project | Key Tech  |
 |---------|-------------|----------|
 | 🏋️ Smart-Retail-Vision-Platform: https://github.com/skamrulh/Smart-Retail-Vision-Platform | YOLOv8 · EasyOCR · Kafka · Redis Streams · FastAPI · Kubernetes |
 | 📄 Predictive-Maintenance-ML-Pipeline: https://github.com/skamrulh/Predictive-Maintenance-ML-Pipeline | RUL regression · MLflow tracking · Docker · Flask API|
