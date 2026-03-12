@@ -3,10 +3,10 @@
 <h3 align="center">Senior AI/ML Specialist & Data Scientist · Dhaka, Bangladesh</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/[YOUR-LINKEDIN-SLUG]">
+  <a href="https://www.linkedin.com/in/syed-kamrul-hasan-48a72548">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:[YOUR-EMAIL]">
+  <a href="mailto:skamrulh@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -70,15 +70,4 @@ rigorous ML engineering (tested, Dockerised, monitored) with practical deploymen
 | 🔗 [Supply Chain Sentinel](https://github.com/[USERNAME]/Supply-Chain-Sentinel) | Streaming anomaly detection | LSTM · Kafka · Grafana · Prometheus |
 
 ---
-
-<!-- === GITHUB STATS (optional, remove if you prefer clean profile) === -->
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[USERNAME]&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[USERNAME]&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
-
----
-
 <p align="center"><em>"I don't just build models — I build systems that work in production."</em></p>
