@@ -20,10 +20,10 @@ I build production-grade AI/ML systems — from real-time computer vision and LL
 applications to enterprise NLP pipelines and streaming anomaly detection. My work combines
 rigorous ML engineering (tested, Dockerised, monitored) with practical deployment on AWS.
 
-- 🔭 Currently building AI-powered products in Dhaka, Bangladesh
+- 🔭 Currently building AI-powered products in Khulna, Bangladesh
 - 🧠 Specialities: Computer Vision · NLP/LLM · Time-Series ML · MLOps
 - 🛠 Stack: Python · PyTorch · TensorFlow · FastAPI · Docker · Redis · Kafka · AWS
-- 📬 Open to: Senior ML Engineer / AI Product Engineer / Applied AI Scientist roles
+- 📬 Open to: ML Engineer / AI Engineer / Applied AI / ML Senior / Manager roles
 
 ---
 
